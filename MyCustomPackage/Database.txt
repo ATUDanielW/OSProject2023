@@ -1,3 +1,0 @@
-1001,batman,batman@gmail.com,batman999,athlone,10000.0
-2001,spider,spiderman@gmail.com,spider999,galway,3000.0
-3001,Flash,flashman@gmail.com,flash999,dublin,5000.0
